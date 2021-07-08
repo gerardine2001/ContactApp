@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
             Contact("Doro", "doro@gmail.com", "+22455665"),
             Contact("Ana", "ana@gmail.com", "+23274388"),
             Contact("Belyse", "belyse@gmail.com", "+25677789"),
-            Contact("Belyse", "belyse@gmail.com", "+25677789"),
+
 
             )
         rvContact = findViewById(R.id.rvContact)
